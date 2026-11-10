@@ -1,1 +1,1 @@
-# tuplas
+# exercicio sobre tuplas
